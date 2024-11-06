@@ -1,2 +1,2 @@
-# course-en-chapter1-section3.ipynb
+# NLP course HuggingFace
 HF course via Colab
